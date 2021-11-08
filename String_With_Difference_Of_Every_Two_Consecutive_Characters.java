@@ -1,4 +1,4 @@
-package Java_pepcoding;
+package Java_pepcoding_array_problems;
 /*
 1. You are given a string that contains only lowercase and uppercase alphabets.
 2. You have to form a string that contains the difference of ASCII values of every two consecutive characters between those characters.
