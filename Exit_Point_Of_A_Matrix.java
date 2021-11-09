@@ -1,4 +1,4 @@
-package Java_pepcoding;
+package Java_pepcoding_array_problems;
 
 /*
 1. You are given a number n, representing the number of rows.
